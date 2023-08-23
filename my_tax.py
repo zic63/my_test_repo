@@ -1,6 +1,6 @@
 names = ['Larry', 'Kehrly', 'Moo', 'Bubby', 'Scanny']
 #it's just for test digga
-
+#it's just for second test digga
 
 def num_of_idiots(names_list):
     example_dict = {1: 'One',
