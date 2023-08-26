@@ -12,3 +12,5 @@ secrets.txt
 .idea
 env
 venv
+my_book_env
+.gitignore
